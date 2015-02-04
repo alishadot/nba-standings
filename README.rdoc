@@ -1,4 +1,4 @@
 == NBA Standings App
 
 Basic app built with Ruby on Rails which displays NBA standings using Nokogiri to scrape data from the NBA website.
-Built by @daveharris and @alishadaya at Rails Camp NZ 2015. 
+Built by @daveharrisnz and @alishadaya at Rails Camp NZ 2015. 
